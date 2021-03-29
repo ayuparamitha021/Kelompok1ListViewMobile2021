@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">List Makanan Go Internasional</string>
+    <string-array name="data_nama">
+        <item>Rendang</item>
+        <item>Ayam Taliwang</item>
+        <item>Gado-gado</item>
+        <item>Gudeg</item>
+        <item>Kerak Telor</item>
+        <item>Nasi Goreng dan Mie Goreng</item>
+        <item>Rawon</item>
+        <item>Sate</item>
+        <item>Sop Buntut</item>
+        <item>Soto</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/rendang</item>
+        <item>@drawable/ayamtaliwang</item>
+        <item>@drawable/gadogado</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/keraktelor</item>
+        <item>@drawable/nasidanmiegoreng</item>
+        <item>@drawable/rawon</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/sopbuntut</item>
+        <item>@drawable/soto</item>
+    </array>
+
+    <string-array name="data_deskripsi">
+        <item>Rendang terbuat dari daging sapi yang dimasak dalam saus santan dan rempah-rempah selama beberapa jam.</item>
+        <item>Makanan khas daerah Nusa Tenggara Barat ini berbahan dasar daging ayam yang dibakar dengan bumbu cabai merah kering, bawang merah, bawang putih, tomat, terasi goreng, kencur, gula merah, dan juga garam.</item>
+        <item>Kuliner ini berisi berbagai macam sayuran segar yang dipadu dengan bumbu kacang. Biasanya dimakan dengan kerupuk.</item>
+        <item>Makanan khas Yogyakarta ini cenderung manis karena menggunakan buah nangka manis sebagai bahan utamanya.</item>
+        <item>Makanan tradisional ini semacam nasi goreng yang dimasak di atas arang dan dibuat dari ketan dan juga telur.</item>
+        <item>Banyak orang dari seluruh dunia suka dengan cita rasa nasi goreng khas Indonesia. Tak cuma nasi goreng, mie goreng juga terkenal di luar negeri.</item>
+        <item>Rawon memiliki rasa pedas dan warna hitam yang pekat dari penggunaan kacang keluak. </item>
+        <item>Sate adalah daging tusuk yang dimasak atau dibakar di atas arang. Sate tusuk ini biasanya menggunakan daging ayam, kambing, kelinci, atau bagian lainnya yang disajikan dengan menggunakan saus kacang pedas. Daging biasanya akan direndam di dalam bumbu rempah sebelum dimasak.</item>
+        <item>Kuahnya penuh dengan kaldu dan terasa segar. Kentang, tomat, dan wortel menjadi pelengkapnya.</item>
+        <item>Ada beragam soto di Indonesia, mulai dari Soto Betawi, Soto Lamongan, Soto Mie Bogor, Soto Banjar, Soto Padang, Coto Makassar, Soto Lenthok, Soto Kudus, Soto Tauco Pekalongan, Soto Kemiri, dan masih banyak lagi.</item>
+    </string-array>
+
+
+</resources>
